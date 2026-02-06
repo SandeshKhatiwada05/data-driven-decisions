@@ -1,0 +1,1001 @@
+employee_id,salary,satisfaction_score,worklife_balance,years_at_company,promotions,department,education,left_company
+1,57669,2,4,1,0,Support,PhD,0
+2,67963,4,2,9,4,Marketing,PhD,0
+3,42263,2,1,15,5,Support,High School,0
+4,45658,5,3,7,3,Support,Bachelors,0
+5,92449,1,1,11,3,Engineering,PhD,0
+6,60649,1,4,8,3,Marketing,Bachelors,0
+7,70713,3,1,6,2,Finance,High School,1
+8,48830,2,4,14,5,HR,High School,0
+9,55966,2,2,2,0,Sales,PhD,0
+10,45168,1,1,10,2,Support,High School,1
+11,69156,1,1,8,1,Engineering,High School,0
+12,100447,1,1,9,2,Engineering,PhD,0
+13,49920,4,3,13,4,Sales,Masters,0
+14,91859,5,1,1,0,Engineering,PhD,0
+15,84286,2,5,14,4,Engineering,Bachelors,0
+16,58358,5,2,1,0,Marketing,Masters,0
+17,78147,5,3,11,3,Engineering,Bachelors,0
+18,50533,1,3,13,5,Sales,Masters,0
+19,49681,4,3,4,2,HR,High School,0
+20,76682,1,5,11,3,Marketing,PhD,0
+21,61011,3,3,5,1,HR,Bachelors,1
+22,51389,2,1,4,2,Support,PhD,0
+23,61942,2,4,1,1,Finance,Bachelors,0
+24,93464,5,1,13,5,Engineering,PhD,0
+25,63133,3,2,13,3,Marketing,Bachelors,0
+26,60806,3,1,3,0,Marketing,Bachelors,0
+27,64327,2,2,2,1,HR,Bachelors,0
+28,60484,5,4,5,2,HR,PhD,0
+29,75868,3,1,9,3,Engineering,Masters,0
+30,44631,5,3,4,2,Support,Masters,0
+31,57014,1,2,4,2,Sales,PhD,0
+32,71097,4,2,11,4,Engineering,High School,0
+33,54782,5,4,10,2,Support,PhD,0
+34,83543,4,3,10,4,Finance,PhD,0
+35,49202,5,2,15,6,Sales,High School,1
+36,62464,5,1,1,0,Marketing,Masters,0
+37,62514,2,3,1,0,Sales,PhD,0
+38,60120,5,5,11,4,Finance,High School,0
+39,73857,3,1,13,5,Engineering,Bachelors,0
+40,69214,3,1,6,2,Marketing,High School,0
+41,70779,1,5,6,1,Marketing,Bachelors,0
+42,66713,1,5,5,1,Marketing,Bachelors,0
+43,93965,5,4,10,3,Engineering,PhD,0
+44,65902,4,2,1,1,Finance,Masters,0
+45,72554,5,3,13,5,Finance,High School,0
+46,51737,4,2,8,1,HR,High School,1
+47,59257,4,4,2,0,Finance,High School,0
+48,69136,2,1,4,2,Finance,Bachelors,0
+49,58609,4,5,13,5,Sales,High School,0
+50,56516,4,2,12,3,Sales,Masters,0
+51,73888,1,2,3,1,Marketing,PhD,0
+52,64458,1,5,2,1,Marketing,Bachelors,0
+53,80719,3,1,5,2,Finance,Masters,0
+54,47874,1,1,2,1,Sales,High School,0
+55,43337,1,4,9,3,Sales,High School,0
+56,37355,2,2,8,1,Support,Masters,0
+57,58773,5,4,6,2,Finance,High School,0
+58,65117,1,5,12,5,HR,Masters,0
+59,83163,2,3,4,1,Engineering,Bachelors,0
+60,71616,5,3,11,2,HR,PhD,0
+61,58026,1,3,1,0,Finance,Bachelors,0
+62,50437,1,4,6,1,Sales,High School,0
+63,84395,2,1,3,1,Marketing,PhD,0
+64,72698,5,3,2,0,Marketing,Bachelors,0
+65,81904,1,1,7,2,Engineering,Masters,0
+66,93944,3,4,13,3,Engineering,PhD,0
+67,53790,5,4,9,4,Marketing,High School,0
+68,81512,4,1,9,3,Engineering,Bachelors,0
+69,67319,2,3,5,1,Marketing,PhD,0
+70,59966,3,2,9,2,HR,Bachelors,0
+71,52004,5,1,7,2,Sales,Masters,0
+72,97836,2,5,11,3,Engineering,PhD,0
+73,65066,4,5,13,5,Marketing,High School,0
+74,53517,5,5,1,0,Marketing,Bachelors,0
+75,88356,2,2,5,2,Engineering,Masters,0
+76,81657,3,2,8,2,Finance,Masters,0
+77,70832,1,3,3,2,Engineering,High School,0
+78,59985,2,3,11,2,Marketing,High School,0
+79,66447,1,3,3,2,Engineering,High School,0
+80,83789,2,4,1,0,Engineering,Masters,0
+81,70894,4,4,3,2,Finance,Bachelors,1
+82,52817,1,5,13,4,HR,Masters,0
+83,59137,5,3,6,2,HR,Bachelors,0
+84,56094,4,3,1,0,Finance,High School,0
+85,54596,3,1,7,3,Sales,PhD,0
+86,79192,1,2,2,1,HR,PhD,0
+87,62173,4,4,5,1,Finance,Bachelors,0
+88,74048,2,1,4,0,Marketing,PhD,0
+89,89166,1,4,9,4,Engineering,PhD,0
+90,83468,1,5,2,0,Engineering,Bachelors,0
+91,82725,5,1,7,1,Finance,Masters,0
+92,69308,5,5,6,1,HR,Masters,0
+93,62596,2,3,5,2,Finance,Bachelors,0
+94,73653,4,1,12,5,Finance,High School,0
+95,59339,5,5,5,0,HR,Masters,0
+96,92093,2,3,11,2,Finance,PhD,1
+97,50791,4,1,15,4,HR,Bachelors,0
+98,66306,5,4,12,4,Finance,Masters,0
+99,63034,1,3,12,4,Marketing,Masters,0
+100,69070,1,5,11,4,Finance,Masters,0
+101,50820,2,5,3,1,Sales,High School,0
+102,58737,4,1,4,1,Marketing,High School,0
+103,58065,1,3,5,1,HR,Bachelors,0
+104,85882,3,2,13,5,Engineering,Bachelors,0
+105,77569,2,5,4,0,Finance,PhD,0
+106,91305,3,3,5,1,Engineering,Masters,0
+107,75727,3,2,15,5,Finance,PhD,1
+108,36328,4,2,2,0,Support,High School,0
+109,87494,3,1,8,3,Engineering,Masters,0
+110,58076,4,4,9,3,HR,High School,1
+111,63742,4,3,15,4,Marketing,Bachelors,0
+112,59082,1,1,11,4,Marketing,Bachelors,1
+113,67660,5,1,12,5,Finance,Bachelors,0
+114,59241,3,5,15,4,Marketing,Bachelors,0
+115,83396,3,3,3,2,Engineering,Masters,1
+116,69896,5,2,7,1,Engineering,High School,0
+117,44707,4,4,7,3,Support,Bachelors,0
+118,52116,5,1,4,1,Marketing,High School,0
+119,79744,1,3,15,4,Finance,PhD,0
+120,62007,2,1,9,2,HR,Masters,0
+121,42499,2,3,13,4,Support,High School,0
+122,60616,3,2,15,6,Sales,Masters,0
+123,59828,5,4,7,1,Sales,Bachelors,0
+124,58656,2,3,10,2,Finance,Bachelors,0
+125,53233,3,2,11,4,Marketing,High School,0
+126,80149,2,5,15,5,Engineering,High School,0
+127,77766,4,2,13,5,Finance,Masters,0
+128,71195,1,5,12,5,Finance,Bachelors,0
+129,73963,3,4,7,1,Engineering,Bachelors,0
+130,74570,3,5,1,0,Engineering,Bachelors,0
+131,56922,2,3,2,0,Support,PhD,0
+132,72976,4,2,6,3,Engineering,High School,0
+133,34124,3,4,10,2,Support,High School,0
+134,57021,4,5,13,5,Marketing,Bachelors,0
+135,39314,1,5,9,4,Support,Bachelors,0
+136,58131,2,3,12,5,Marketing,Bachelors,0
+137,60007,3,4,1,0,Sales,Bachelors,0
+138,67404,3,1,3,0,Marketing,High School,0
+139,51277,1,3,6,1,Support,Masters,0
+140,47885,4,4,14,5,Support,Masters,0
+141,73297,3,1,1,0,Finance,PhD,0
+142,67059,2,5,15,6,Marketing,Bachelors,0
+143,56858,2,2,13,3,Sales,Bachelors,0
+144,90276,4,1,4,2,Engineering,PhD,0
+145,52094,5,4,14,3,HR,Bachelors,0
+146,84606,4,2,13,4,Marketing,PhD,0
+147,51397,4,1,8,3,Support,Masters,0
+148,55308,4,2,10,2,Sales,Masters,0
+149,69230,2,1,14,4,Sales,PhD,0
+150,53005,3,1,2,1,Sales,Masters,0
+151,71349,1,5,11,3,Marketing,Masters,0
+152,45654,4,2,6,1,Support,Masters,0
+153,43171,3,4,13,3,Support,PhD,0
+154,70257,5,2,13,5,Marketing,Bachelors,1
+155,59174,3,3,15,6,HR,High School,0
+156,69226,3,3,4,2,Marketing,Bachelors,0
+157,39796,3,5,3,1,Support,Bachelors,0
+158,83755,3,3,13,5,Engineering,High School,0
+159,35728,3,4,9,3,Support,Bachelors,0
+160,78182,1,1,11,4,Engineering,Masters,0
+161,73320,1,5,13,4,Sales,PhD,0
+162,39650,5,2,14,4,Support,Bachelors,0
+163,68780,3,3,3,0,Finance,High School,0
+164,71281,1,1,15,4,Finance,Bachelors,0
+165,56980,5,5,12,3,Sales,PhD,0
+166,67273,4,5,10,2,Sales,PhD,0
+167,49452,3,1,10,4,HR,Bachelors,0
+168,73479,3,4,15,4,Marketing,Masters,0
+169,57221,5,3,14,3,Finance,High School,0
+170,47606,2,2,8,2,HR,Bachelors,0
+171,65888,5,5,5,2,HR,Masters,0
+172,53679,4,2,10,2,Support,Masters,0
+173,88601,5,3,10,4,Engineering,PhD,0
+174,58846,5,1,7,2,Sales,Masters,0
+175,60925,5,1,4,1,Marketing,Masters,0
+176,77176,2,5,8,1,Engineering,High School,1
+177,74457,3,3,13,3,Marketing,Masters,1
+178,83208,2,4,2,0,Finance,PhD,0
+179,57104,5,2,2,0,Support,PhD,1
+180,50274,5,4,1,0,Sales,High School,0
+181,74869,3,2,11,3,Marketing,PhD,0
+182,61166,4,3,7,1,Sales,Bachelors,0
+183,45150,1,1,14,3,Support,Masters,1
+184,52519,4,5,4,2,Marketing,High School,0
+185,56073,5,5,10,3,HR,Bachelors,0
+186,43900,1,2,5,0,Support,PhD,0
+187,33596,2,5,1,1,Support,High School,1
+188,77440,2,4,5,1,HR,PhD,0
+189,39794,1,4,6,3,Support,High School,0
+190,56034,1,1,8,1,Finance,High School,0
+191,55342,2,4,6,1,HR,High School,0
+192,54762,1,5,4,2,HR,Masters,0
+193,56126,2,2,11,4,Sales,Masters,0
+194,59230,3,4,1,0,Marketing,Bachelors,0
+195,74062,5,1,12,5,HR,PhD,0
+196,77391,3,4,3,0,Finance,Bachelors,1
+197,38906,5,5,5,1,Support,Bachelors,0
+198,65768,5,4,6,3,Finance,High School,0
+199,46782,3,1,4,2,Sales,Masters,0
+200,73476,2,4,15,6,Marketing,Masters,0
+201,77937,4,2,15,5,Marketing,PhD,0
+202,42838,5,5,1,0,Support,PhD,0
+203,51281,4,5,3,2,Marketing,High School,0
+204,56637,1,4,9,3,HR,Masters,0
+205,56301,1,2,7,3,HR,High School,0
+206,76610,1,2,3,0,Marketing,Masters,0
+207,77712,1,3,5,1,Finance,Masters,0
+208,64149,1,4,2,0,Marketing,Masters,0
+209,63542,1,2,5,2,Marketing,High School,0
+210,49959,1,4,13,5,HR,High School,0
+211,59632,4,4,4,0,Finance,High School,0
+212,72350,1,4,2,0,Finance,High School,0
+213,82382,3,2,6,1,Engineering,High School,0
+214,47327,4,5,1,0,HR,High School,0
+215,83644,5,4,13,3,Marketing,PhD,0
+216,73630,5,3,12,4,Marketing,PhD,0
+217,60156,2,1,11,2,Finance,Bachelors,0
+218,77398,3,1,11,2,Engineering,Masters,0
+219,50283,4,5,4,1,Sales,Masters,0
+220,32552,3,4,6,3,Support,High School,0
+221,31914,5,5,11,3,Support,High School,1
+222,61091,2,4,11,4,HR,Bachelors,0
+223,90948,5,1,8,3,Finance,PhD,0
+224,67756,5,3,15,4,Finance,Bachelors,0
+225,71994,2,3,2,0,Engineering,Bachelors,0
+226,71187,1,4,12,4,Finance,Bachelors,0
+227,52118,1,1,15,6,Marketing,High School,0
+228,75262,3,3,12,5,Engineering,High School,0
+229,64173,3,5,1,0,Finance,Masters,0
+230,75527,5,2,7,2,Engineering,Masters,0
+231,38160,3,1,8,1,Support,High School,0
+232,82086,5,1,2,0,Engineering,Masters,0
+233,79623,2,3,13,5,HR,PhD,0
+234,71890,4,1,3,2,Finance,High School,0
+235,47745,1,4,10,4,Support,Bachelors,0
+236,57302,5,1,6,1,HR,Masters,0
+237,82507,2,3,15,6,Marketing,PhD,0
+238,75000,5,4,13,3,Marketing,PhD,0
+239,62302,1,4,10,2,Sales,PhD,0
+240,57306,2,2,9,2,Marketing,Bachelors,0
+241,43146,2,5,2,1,Support,Masters,0
+242,76226,3,2,3,1,Marketing,Masters,0
+243,43522,2,2,15,6,Sales,Bachelors,0
+244,60949,4,3,5,2,Sales,Masters,1
+245,67524,1,2,12,5,Finance,Masters,0
+246,56959,2,1,12,4,HR,Masters,0
+247,31991,2,1,10,4,Support,Bachelors,1
+248,51968,4,1,10,3,Support,PhD,0
+249,70253,5,5,11,4,Engineering,High School,0
+250,79254,4,4,2,0,Marketing,PhD,0
+251,69681,1,4,13,3,Marketing,Bachelors,0
+252,43655,2,4,1,0,Support,High School,0
+253,43326,4,2,12,5,Support,Masters,0
+254,63705,4,1,7,2,Sales,PhD,0
+255,77297,5,4,3,2,Engineering,Masters,0
+256,50331,1,4,4,2,Sales,High School,0
+257,89658,4,5,6,1,Engineering,Masters,0
+258,69842,4,1,6,3,Marketing,Bachelors,1
+259,68463,1,4,10,4,Finance,Bachelors,0
+260,67544,1,1,15,4,Engineering,High School,0
+261,53491,5,2,5,0,Marketing,Bachelors,0
+262,67025,4,4,10,2,HR,PhD,0
+263,67685,5,2,3,2,Marketing,Masters,1
+264,59292,2,4,4,1,Sales,High School,0
+265,43157,5,3,12,4,Sales,High School,0
+266,55983,4,5,9,3,Sales,Bachelors,0
+267,72039,3,4,1,0,Finance,Masters,0
+268,71145,3,5,8,2,Finance,Masters,0
+269,53537,3,5,13,4,HR,Bachelors,0
+270,74231,3,2,15,4,Finance,PhD,1
+271,70965,5,1,9,2,Finance,High School,0
+272,62526,4,2,5,2,HR,High School,0
+273,58052,2,5,1,0,HR,High School,0
+274,83405,5,3,15,5,Engineering,High School,0
+275,69461,4,3,14,3,Marketing,Bachelors,0
+276,79482,2,3,15,4,Marketing,PhD,0
+277,58336,2,3,11,4,Sales,High School,0
+278,69702,2,1,1,0,Finance,Bachelors,0
+279,31895,4,1,15,5,Support,Bachelors,0
+280,47221,1,1,7,1,Support,Masters,0
+281,86752,3,4,4,1,Engineering,Bachelors,0
+282,65510,4,1,6,2,Marketing,Bachelors,0
+283,51813,1,1,13,3,HR,Bachelors,0
+284,57742,3,5,9,2,Support,PhD,0
+285,80372,1,4,11,2,Engineering,Bachelors,0
+286,55602,2,4,8,1,Sales,Bachelors,0
+287,83616,4,4,9,4,Engineering,Bachelors,0
+288,68302,5,5,12,4,Finance,Masters,0
+289,48403,2,5,13,4,HR,High School,0
+290,85184,4,3,9,4,Finance,PhD,1
+291,78230,5,1,7,2,Engineering,High School,0
+292,97929,1,5,4,0,Engineering,PhD,0
+293,54909,4,5,11,2,Support,PhD,0
+294,58988,4,4,15,5,Sales,Masters,0
+295,51754,1,5,3,0,Sales,High School,0
+296,42432,5,5,13,3,Support,PhD,0
+297,32696,2,4,13,3,Support,Bachelors,0
+298,49062,1,1,4,0,Sales,Bachelors,0
+299,87050,1,1,3,0,Engineering,Bachelors,0
+300,67910,1,3,7,2,HR,Masters,0
+301,76200,4,3,10,4,Marketing,PhD,0
+302,42791,5,2,4,1,Support,PhD,0
+303,50435,2,5,2,0,Marketing,High School,0
+304,77234,5,2,2,0,Finance,PhD,1
+305,51426,4,2,2,0,Sales,High School,0
+306,69545,1,5,2,0,Marketing,Bachelors,0
+307,64121,5,4,8,3,HR,Masters,0
+308,63607,3,1,15,5,HR,High School,0
+309,57138,3,2,12,5,Finance,High School,1
+310,79110,5,2,3,0,Engineering,High School,0
+311,67501,5,4,3,0,Finance,High School,0
+312,33791,2,5,9,2,Support,Bachelors,1
+313,75431,4,3,7,2,HR,PhD,0
+314,56394,1,5,9,2,Sales,PhD,0
+315,56055,3,1,11,3,Sales,High School,0
+316,77512,2,5,14,4,Marketing,PhD,0
+317,80859,5,3,10,4,Finance,PhD,0
+318,34892,5,4,7,2,Support,High School,0
+319,71044,2,2,13,5,HR,PhD,0
+320,35717,5,2,2,0,Support,Bachelors,0
+321,73603,1,5,13,4,Marketing,PhD,0
+322,78443,2,4,1,0,Engineering,Bachelors,0
+323,62209,1,1,12,3,Finance,Bachelors,0
+324,66166,1,4,3,0,HR,Bachelors,0
+325,65220,5,5,4,2,Marketing,Masters,0
+326,33272,5,4,3,0,Support,Bachelors,0
+327,77763,3,1,9,4,Marketing,PhD,0
+328,53439,1,3,13,3,Sales,High School,0
+329,81635,4,4,15,5,Engineering,High School,0
+330,49366,4,4,3,1,HR,Bachelors,0
+331,49254,3,1,5,1,Support,Bachelors,0
+332,63338,4,5,10,2,HR,Bachelors,0
+333,58719,3,3,6,2,Marketing,Masters,0
+334,59285,1,5,8,2,HR,Bachelors,0
+335,76917,4,3,9,2,Marketing,PhD,0
+336,85059,3,2,8,3,Marketing,PhD,0
+337,42023,3,5,12,4,Support,Masters,0
+338,72329,5,2,15,4,Marketing,Masters,0
+339,64153,4,4,7,3,Finance,Bachelors,0
+340,80144,2,4,6,3,Finance,Masters,0
+341,69075,3,3,10,4,HR,PhD,0
+342,101726,5,5,10,3,Engineering,PhD,0
+343,77274,5,1,4,0,Finance,Masters,1
+344,68359,5,1,10,2,HR,PhD,0
+345,76406,2,4,2,0,HR,PhD,0
+346,51301,1,5,13,4,Sales,High School,0
+347,41028,1,5,11,4,Support,PhD,0
+348,60779,2,2,12,4,Finance,Bachelors,0
+349,71797,3,1,9,3,Marketing,PhD,0
+350,80100,1,3,13,5,Finance,Masters,0
+351,62727,5,2,3,2,Marketing,Bachelors,1
+352,56660,1,3,11,2,HR,Masters,0
+353,69442,4,5,6,2,Finance,High School,0
+354,80378,3,1,9,4,Marketing,PhD,1
+355,73298,1,1,5,1,Marketing,Masters,0
+356,57318,1,2,12,3,Marketing,Bachelors,0
+357,38503,2,1,10,4,Support,Masters,0
+358,82686,4,4,3,1,Engineering,Bachelors,0
+359,60827,4,2,15,4,HR,High School,0
+360,67406,3,2,13,5,Sales,PhD,1
+361,61562,1,2,7,3,Marketing,High School,0
+362,59243,5,5,14,3,Marketing,High School,0
+363,88175,1,3,6,1,Engineering,Masters,0
+364,56357,3,4,15,4,Marketing,Bachelors,0
+365,70420,1,5,4,0,Engineering,Bachelors,0
+366,44034,4,1,1,0,Support,High School,0
+367,66964,5,5,8,3,Finance,High School,0
+368,83982,5,4,11,2,Engineering,High School,0
+369,70073,2,4,7,3,Sales,PhD,0
+370,58700,5,5,4,1,Marketing,Bachelors,0
+371,49590,4,5,15,4,HR,Bachelors,0
+372,43018,1,4,8,2,Sales,High School,0
+373,83689,4,2,9,4,Marketing,PhD,0
+374,71834,2,2,5,0,Engineering,High School,0
+375,58674,3,5,4,0,Sales,PhD,0
+376,58798,1,4,6,3,HR,High School,0
+377,55599,5,2,15,6,Marketing,High School,0
+378,56086,3,1,14,5,Sales,High School,0
+379,85753,4,5,13,4,Finance,PhD,0
+380,56678,2,3,7,2,HR,High School,0
+381,78720,4,1,5,1,Finance,Masters,0
+382,48288,3,5,12,5,HR,Bachelors,0
+383,63200,5,3,4,1,Sales,Masters,0
+384,44349,4,2,13,5,Sales,High School,0
+385,54245,4,5,12,4,Marketing,Bachelors,0
+386,70065,4,5,13,5,Engineering,Bachelors,0
+387,87582,1,3,13,5,Engineering,Masters,0
+388,43688,4,5,7,3,Support,PhD,1
+389,72589,1,3,11,3,Sales,PhD,0
+390,52469,1,2,4,1,HR,Bachelors,0
+391,57634,4,1,15,4,Sales,High School,0
+392,66714,2,2,4,0,Marketing,PhD,0
+393,42048,2,1,15,5,Sales,High School,0
+394,61606,2,3,10,3,Sales,Masters,0
+395,55390,5,5,2,0,HR,Masters,0
+396,61850,5,2,2,0,Marketing,Bachelors,0
+397,73758,2,5,14,4,Engineering,Bachelors,0
+398,73383,5,2,7,1,Finance,PhD,0
+399,63370,2,2,8,1,Sales,PhD,0
+400,81990,3,1,2,0,Finance,PhD,0
+401,50803,4,5,14,5,HR,Bachelors,0
+402,72741,3,3,14,4,Engineering,High School,0
+403,49131,5,2,15,5,Support,High School,0
+404,62766,5,2,3,1,Sales,Masters,0
+405,92433,4,2,5,2,Engineering,PhD,0
+406,76797,5,5,7,1,Engineering,High School,0
+407,64498,5,2,15,5,HR,PhD,0
+408,63095,5,1,10,4,Sales,Masters,0
+409,59892,5,4,11,2,HR,High School,0
+410,73106,5,3,13,5,Finance,Masters,0
+411,84599,4,3,7,2,Finance,PhD,0
+412,56493,4,4,13,5,Finance,High School,0
+413,59461,3,1,10,2,Sales,PhD,0
+414,56381,5,2,3,2,Marketing,High School,0
+415,45890,1,5,4,2,Support,Masters,0
+416,66817,4,1,14,4,HR,Bachelors,0
+417,51858,1,2,13,4,HR,Bachelors,0
+418,69437,4,1,11,3,Finance,Masters,0
+419,57831,5,2,12,3,Sales,Bachelors,0
+420,43268,3,4,14,3,Support,PhD,0
+421,67227,5,1,15,6,Sales,PhD,0
+422,69149,1,5,15,5,HR,PhD,0
+423,65349,1,4,5,1,HR,Masters,0
+424,68119,4,4,3,1,Marketing,Bachelors,1
+425,98801,5,1,11,4,Engineering,PhD,0
+426,93191,3,5,4,2,Engineering,Masters,0
+427,46776,1,5,11,4,Sales,High School,0
+428,58635,4,5,12,5,Sales,PhD,0
+429,73825,4,5,9,3,Finance,PhD,0
+430,34223,1,1,9,2,Support,High School,0
+431,58791,4,4,1,0,Sales,PhD,0
+432,71239,1,4,2,0,Marketing,PhD,0
+433,74596,2,5,4,1,Engineering,Bachelors,0
+434,57065,3,2,5,2,Support,PhD,0
+435,85534,2,4,15,4,Engineering,Masters,0
+436,51468,3,5,4,2,HR,Bachelors,0
+437,45423,2,4,1,0,Support,High School,0
+438,73299,1,1,6,3,Finance,PhD,0
+439,76467,4,4,1,0,HR,PhD,0
+440,60075,1,2,5,2,Marketing,High School,0
+441,46571,5,5,5,0,HR,High School,0
+442,84620,1,5,14,3,Engineering,Bachelors,0
+443,58492,4,2,2,0,Finance,High School,0
+444,52732,1,4,10,4,HR,Bachelors,0
+445,50708,2,5,8,3,Sales,Bachelors,0
+446,62828,5,4,14,4,Sales,Masters,0
+447,69381,5,2,13,3,Sales,PhD,0
+448,79855,1,3,12,3,Engineering,High School,0
+449,69399,4,4,8,3,HR,Masters,0
+450,72128,1,2,2,0,HR,PhD,0
+451,86591,2,5,5,0,Engineering,PhD,0
+452,65638,3,4,2,1,Finance,High School,0
+453,51856,2,4,15,6,Support,PhD,0
+454,58543,5,1,12,3,HR,High School,1
+455,35787,5,4,6,2,Support,High School,0
+456,50249,2,3,15,5,Sales,High School,0
+457,47489,2,2,13,5,Support,PhD,0
+458,47012,1,3,6,2,Support,Masters,0
+459,71309,5,2,7,2,HR,PhD,0
+460,59333,3,3,2,1,Finance,Bachelors,1
+461,67725,3,2,5,1,Finance,Masters,0
+462,78090,4,1,3,1,Marketing,PhD,0
+463,53168,1,3,14,3,HR,Masters,0
+464,60492,1,1,2,0,Finance,Bachelors,0
+465,35273,3,3,3,2,Support,Bachelors,0
+466,52370,4,1,11,3,HR,High School,0
+467,53143,3,5,5,1,HR,Masters,0
+468,47320,4,2,11,4,Sales,Masters,0
+469,75588,1,5,1,1,Finance,Masters,0
+470,86185,4,3,11,2,Finance,PhD,0
+471,46995,5,1,12,3,HR,High School,0
+472,62032,3,5,3,2,Sales,Masters,0
+473,46198,4,3,5,2,Support,High School,0
+474,38570,2,3,1,0,Support,Bachelors,0
+475,46914,3,5,13,4,Support,Masters,0
+476,49747,3,5,5,1,Support,Bachelors,0
+477,79659,4,2,11,4,HR,PhD,1
+478,80269,1,4,15,6,Engineering,Bachelors,0
+479,47838,1,2,4,2,HR,Bachelors,0
+480,47940,1,3,14,3,Support,PhD,0
+481,69824,1,2,4,2,Engineering,High School,0
+482,70755,4,4,7,1,Finance,Masters,0
+483,49250,5,3,14,5,Sales,High School,1
+484,73551,1,2,6,3,Engineering,Bachelors,1
+485,55057,3,5,14,4,Support,Masters,0
+486,58637,2,1,7,1,HR,High School,1
+487,32385,4,2,13,4,Support,High School,0
+488,80403,4,4,2,1,Finance,PhD,0
+489,50105,5,4,8,1,Support,PhD,0
+490,68684,1,1,3,0,HR,PhD,0
+491,43083,3,1,4,2,Support,Masters,0
+492,55378,3,1,9,2,HR,High School,0
+493,60843,2,3,8,2,Marketing,High School,0
+494,75910,4,1,7,2,Marketing,PhD,0
+495,52233,4,1,9,2,Support,Masters,0
+496,99600,4,5,11,2,Engineering,PhD,0
+497,63147,2,3,11,4,Marketing,Masters,0
+498,61298,4,1,8,3,Marketing,Bachelors,0
+499,65105,1,2,14,3,Finance,High School,0
+500,68046,4,1,13,4,Finance,Bachelors,0
+501,51516,5,5,8,2,Sales,Masters,0
+502,53442,2,5,1,0,Sales,High School,0
+503,67725,4,5,12,5,Marketing,Masters,0
+504,70491,4,2,13,5,Engineering,High School,0
+505,40584,1,4,10,2,Support,Masters,1
+506,104628,5,1,8,1,Engineering,PhD,0
+507,66825,3,3,1,0,Sales,PhD,0
+508,83847,4,3,12,5,Engineering,High School,0
+509,49456,4,3,10,4,Sales,Bachelors,0
+510,73445,2,3,4,0,Finance,High School,0
+511,77108,2,2,15,6,Engineering,Bachelors,0
+512,32180,1,5,6,3,Support,High School,0
+513,48687,3,5,15,5,HR,Bachelors,0
+514,75732,4,4,6,2,Marketing,Masters,0
+515,72085,2,2,13,4,Marketing,PhD,1
+516,66587,5,2,12,4,Marketing,PhD,0
+517,74071,3,2,8,1,Finance,PhD,0
+518,74010,1,2,12,5,Finance,Bachelors,1
+519,92014,4,5,2,0,Engineering,PhD,0
+520,79672,3,4,15,4,Finance,PhD,0
+521,67009,2,1,14,3,HR,PhD,0
+522,85969,2,2,4,0,Engineering,Bachelors,0
+523,69172,4,1,3,0,Marketing,Bachelors,0
+524,55507,4,3,7,3,Sales,PhD,0
+525,76105,1,4,14,4,Engineering,Bachelors,0
+526,92412,1,4,3,2,Finance,PhD,0
+527,57761,2,3,12,4,HR,Bachelors,0
+528,62188,3,5,15,6,Sales,PhD,0
+529,61191,4,5,7,1,Finance,High School,0
+530,91980,2,2,3,0,Finance,PhD,0
+531,74074,3,3,1,0,Engineering,Bachelors,0
+532,58107,3,2,8,3,Sales,Masters,0
+533,34746,4,4,8,1,Support,High School,0
+534,55115,3,3,7,2,Sales,Masters,0
+535,46355,5,4,11,4,Sales,Bachelors,0
+536,35932,3,5,9,3,Support,High School,0
+537,49514,3,2,11,4,Sales,Bachelors,0
+538,54719,2,3,7,3,Sales,Bachelors,0
+539,45965,2,4,7,3,HR,High School,0
+540,84788,2,5,6,1,Engineering,Bachelors,0
+541,63493,5,5,9,4,Finance,High School,0
+542,77093,1,3,2,0,Marketing,Masters,0
+543,73653,3,3,10,2,HR,PhD,0
+544,77421,1,3,1,1,Marketing,Masters,0
+545,50989,3,2,8,2,Marketing,High School,0
+546,60823,3,4,1,0,Finance,Bachelors,0
+547,68440,2,5,6,3,Marketing,Masters,1
+548,86527,1,1,7,3,Engineering,PhD,0
+549,72634,5,1,10,2,Finance,High School,0
+550,88439,1,5,8,1,Engineering,Masters,0
+551,44119,3,4,11,2,Support,High School,0
+552,58401,4,3,5,1,Sales,Masters,1
+553,88176,2,4,13,4,Finance,PhD,0
+554,66806,1,5,12,4,Engineering,High School,0
+555,45346,1,2,3,2,Support,High School,0
+556,72725,4,3,14,5,Engineering,Bachelors,0
+557,48064,2,1,12,5,Support,PhD,0
+558,59665,2,5,9,2,Support,PhD,0
+559,79201,2,2,14,5,Finance,PhD,0
+560,35431,3,4,14,4,Support,High School,0
+561,105816,1,2,1,0,Engineering,PhD,0
+562,36420,3,4,15,6,Support,High School,0
+563,47124,2,1,9,3,Support,Masters,1
+564,63677,4,2,10,2,HR,PhD,0
+565,75211,2,2,11,2,Engineering,Bachelors,0
+566,58627,5,3,11,2,HR,Masters,0
+567,76726,4,4,4,1,Marketing,PhD,0
+568,37565,4,2,1,0,Support,Bachelors,0
+569,43332,5,5,2,0,Support,Bachelors,0
+570,73266,3,1,2,0,Marketing,Masters,0
+571,96571,2,1,12,5,Engineering,PhD,0
+572,57849,3,2,15,4,Marketing,High School,0
+573,82691,4,2,8,2,Finance,Masters,0
+574,61796,1,5,14,4,HR,Bachelors,0
+575,63030,2,1,6,3,Marketing,High School,0
+576,90054,1,4,7,3,Engineering,Masters,0
+577,49356,4,1,9,4,Support,Masters,0
+578,53789,2,1,13,4,HR,High School,0
+579,32522,2,2,11,3,Support,Bachelors,0
+580,56429,4,4,14,3,Finance,High School,0
+581,32746,1,5,3,2,Support,Bachelors,0
+582,51878,2,3,9,3,Marketing,High School,0
+583,73352,1,4,4,2,Engineering,Bachelors,0
+584,48832,2,5,4,1,Sales,Bachelors,0
+585,47449,1,1,4,2,Sales,High School,0
+586,73131,3,2,9,2,Finance,Bachelors,0
+587,70995,5,5,14,5,Marketing,PhD,0
+588,64033,5,3,6,3,Sales,PhD,0
+589,60230,2,2,10,2,Finance,High School,0
+590,69112,5,3,5,0,Engineering,Bachelors,0
+591,74537,5,1,3,2,Finance,High School,0
+592,73966,2,3,9,3,Finance,High School,0
+593,39529,5,4,13,4,Support,Masters,0
+594,63135,1,3,11,2,Sales,PhD,0
+595,46895,3,5,10,3,Sales,Bachelors,0
+596,72537,3,1,5,1,Engineering,High School,0
+597,54474,5,1,6,2,HR,Bachelors,0
+598,64654,2,4,3,1,Marketing,Bachelors,0
+599,36425,1,3,3,1,Support,High School,0
+600,84295,5,5,8,2,Marketing,PhD,0
+601,65843,2,1,10,3,Sales,Masters,0
+602,79185,5,3,14,5,Engineering,Masters,0
+603,55109,1,5,15,5,Marketing,High School,0
+604,45832,4,2,2,0,Sales,High School,0
+605,47499,5,3,8,1,Sales,High School,0
+606,64175,4,3,6,2,Marketing,High School,0
+607,43458,2,4,15,4,Support,High School,0
+608,52915,2,2,2,1,Sales,High School,0
+609,49954,5,3,3,0,Support,Bachelors,0
+610,66143,3,2,13,5,HR,Bachelors,0
+611,52360,3,3,8,1,Support,PhD,0
+612,64610,2,3,6,1,HR,Bachelors,0
+613,56140,1,3,8,3,Sales,PhD,0
+614,50395,4,5,9,4,Support,PhD,0
+615,59600,3,5,14,3,Finance,High School,0
+616,48285,2,2,7,2,Sales,Masters,0
+617,55821,4,5,4,0,Sales,Bachelors,0
+618,51542,3,4,13,5,Sales,High School,0
+619,75162,2,5,6,2,Marketing,PhD,0
+620,62856,1,3,7,2,Finance,Bachelors,0
+621,63265,3,3,10,4,Sales,Masters,0
+622,47181,1,4,12,3,Support,Bachelors,0
+623,38071,2,2,14,4,Support,High School,0
+624,50473,4,2,15,6,Sales,High School,0
+625,53788,4,2,6,3,Sales,Bachelors,0
+626,61425,4,2,8,2,Marketing,Masters,0
+627,49658,2,4,6,2,Support,PhD,0
+628,38005,4,3,10,2,Support,High School,0
+629,46405,1,4,9,2,HR,High School,0
+630,68607,3,3,9,2,Marketing,Masters,0
+631,61062,3,3,2,0,Marketing,Masters,1
+632,57543,1,2,5,2,Sales,High School,0
+633,90841,5,2,7,3,Finance,PhD,0
+634,100124,5,2,4,0,Engineering,PhD,0
+635,82636,4,1,7,3,Engineering,Bachelors,0
+636,56475,4,4,4,2,Support,PhD,0
+637,58685,5,1,2,1,Sales,PhD,0
+638,37728,1,2,13,3,Support,High School,0
+639,60643,2,2,14,3,Finance,Bachelors,0
+640,72353,1,4,6,1,Finance,Bachelors,0
+641,65822,1,5,5,2,Finance,Masters,0
+642,55353,4,4,3,1,Marketing,High School,1
+643,63122,4,3,9,4,HR,Masters,0
+644,78173,5,1,13,5,Marketing,Masters,0
+645,88389,3,4,7,1,Finance,PhD,0
+646,86800,3,3,8,2,Engineering,PhD,0
+647,72287,4,1,15,5,HR,Masters,0
+648,76682,4,2,2,0,Finance,Masters,0
+649,69965,3,5,12,3,Marketing,Bachelors,0
+650,40576,5,5,8,1,Support,High School,0
+651,62685,5,3,14,3,Marketing,High School,0
+652,94959,1,2,8,3,Engineering,PhD,0
+653,58764,4,5,2,0,HR,Bachelors,0
+654,62090,4,1,14,4,Sales,Masters,1
+655,71699,3,1,5,2,Engineering,Bachelors,0
+656,63391,5,3,15,4,Sales,Masters,1
+657,31438,4,3,10,3,Support,High School,0
+658,66298,2,1,8,3,Engineering,High School,0
+659,61058,4,5,15,6,Sales,Bachelors,0
+660,55616,3,1,4,0,Finance,High School,0
+661,60017,3,2,6,3,Sales,PhD,0
+662,45319,4,5,8,1,Sales,Bachelors,0
+663,36542,2,2,4,0,Support,High School,0
+664,88260,5,3,8,1,Engineering,Bachelors,0
+665,60459,4,4,2,0,Support,PhD,0
+666,65138,5,2,8,2,Finance,Masters,0
+667,73029,2,4,8,3,Engineering,High School,0
+668,91855,5,2,11,2,Finance,PhD,0
+669,75168,3,5,15,6,Finance,Masters,0
+670,57369,5,1,12,5,Marketing,Bachelors,0
+671,61347,5,5,11,3,Finance,High School,0
+672,64420,1,5,1,1,HR,High School,0
+673,45498,3,1,8,1,HR,High School,1
+674,87746,4,4,11,2,Engineering,Masters,0
+675,65290,5,2,12,5,HR,PhD,0
+676,58726,3,4,3,2,Marketing,High School,0
+677,52406,4,5,8,2,HR,Bachelors,1
+678,32698,4,3,6,1,Support,Bachelors,0
+679,81063,5,1,9,2,Finance,Masters,0
+680,51953,4,2,8,2,HR,High School,0
+681,65912,1,4,15,5,HR,PhD,1
+682,74171,3,1,2,1,Finance,PhD,0
+683,82942,2,1,2,1,Finance,Masters,0
+684,73904,2,3,7,3,Finance,High School,0
+685,48053,3,1,14,3,HR,Bachelors,0
+686,75058,2,2,11,3,Engineering,High School,0
+687,74471,4,4,11,4,Marketing,PhD,0
+688,69398,5,5,6,1,Marketing,PhD,0
+689,91477,3,3,8,3,Engineering,PhD,0
+690,62884,2,4,15,6,HR,Bachelors,0
+691,59999,1,5,1,0,Marketing,Masters,0
+692,63464,2,4,12,3,HR,Bachelors,0
+693,64160,2,4,2,0,Marketing,High School,0
+694,42621,2,5,1,0,Sales,Bachelors,1
+695,51548,2,3,5,1,Support,Bachelors,0
+696,73757,4,2,3,2,Finance,Bachelors,0
+697,75945,2,1,6,3,Finance,PhD,0
+698,61838,1,1,4,1,Finance,Bachelors,0
+699,33205,1,1,1,0,Support,Bachelors,1
+700,87391,4,5,3,2,Engineering,Masters,0
+701,77425,2,5,7,1,Engineering,Bachelors,0
+702,73899,4,4,4,0,Marketing,PhD,0
+703,56350,2,4,6,1,Sales,High School,1
+704,58487,3,1,14,5,HR,Masters,0
+705,86354,5,2,13,4,Engineering,PhD,0
+706,73615,4,4,12,4,Engineering,High School,0
+707,66852,4,1,9,3,Finance,Masters,0
+708,69249,2,3,10,4,Finance,Masters,0
+709,86306,2,4,8,1,Engineering,Masters,0
+710,43252,1,4,12,5,Support,Bachelors,0
+711,69811,3,2,4,2,Marketing,PhD,0
+712,82651,5,5,7,1,Finance,PhD,0
+713,59703,5,3,1,0,Marketing,Bachelors,0
+714,74951,4,4,15,6,Finance,High School,0
+715,61229,2,1,11,4,Sales,Bachelors,0
+716,59346,3,5,4,1,Sales,Bachelors,0
+717,44186,1,2,4,2,Support,High School,1
+718,53658,2,3,8,3,Sales,Bachelors,0
+719,87905,5,2,13,5,Engineering,PhD,0
+720,50627,4,2,9,4,Support,PhD,0
+721,36032,1,5,3,1,Support,High School,0
+722,74277,1,5,2,1,Engineering,High School,0
+723,61748,5,2,15,5,Finance,High School,1
+724,56874,1,4,7,3,Marketing,High School,0
+725,57911,1,3,7,3,HR,Bachelors,0
+726,58959,4,3,12,4,Sales,High School,0
+727,74201,4,5,4,2,Finance,Masters,0
+728,72995,1,5,4,2,Finance,High School,0
+729,72801,5,1,11,4,Engineering,Bachelors,0
+730,88774,5,3,6,3,Finance,PhD,1
+731,82071,2,5,14,3,Finance,Masters,0
+732,78576,2,1,15,4,HR,PhD,1
+733,58210,2,2,1,0,Sales,Masters,0
+734,59143,5,5,12,3,Marketing,Bachelors,0
+735,66013,3,2,15,6,Finance,Bachelors,0
+736,30331,3,1,10,4,Support,High School,0
+737,57794,2,5,15,4,Sales,High School,0
+738,60976,4,5,12,5,Finance,High School,0
+739,45872,3,4,4,0,HR,High School,0
+740,64734,1,3,1,0,Finance,Bachelors,0
+741,46646,3,1,3,1,Sales,Bachelors,0
+742,75740,1,4,5,0,Finance,Bachelors,0
+743,62621,1,4,10,2,HR,Bachelors,0
+744,90295,4,1,7,3,Finance,PhD,0
+745,70094,3,5,12,5,Marketing,PhD,0
+746,54412,2,5,12,4,HR,Bachelors,1
+747,72436,3,1,12,4,Engineering,Bachelors,0
+748,55375,1,2,2,0,Marketing,High School,0
+749,42922,5,4,3,1,Support,PhD,1
+750,67868,3,3,10,2,Finance,Masters,0
+751,50927,5,5,5,1,Sales,Masters,0
+752,42469,5,1,8,1,Support,High School,0
+753,75260,1,3,4,0,Marketing,PhD,1
+754,75851,1,4,12,3,Finance,Bachelors,0
+755,66662,1,1,2,0,Finance,High School,0
+756,57685,5,3,13,5,HR,Bachelors,0
+757,99243,2,4,11,4,Engineering,PhD,0
+758,65970,2,2,3,2,Marketing,High School,0
+759,83911,2,4,7,2,Finance,PhD,0
+760,100088,4,1,5,0,Engineering,PhD,0
+761,68461,1,1,4,1,HR,PhD,0
+762,67242,3,2,2,0,Marketing,Masters,0
+763,70811,5,4,6,3,Engineering,High School,0
+764,64309,3,4,6,3,Marketing,High School,0
+765,61181,4,2,13,3,HR,Masters,0
+766,46691,4,3,4,2,Support,PhD,0
+767,57612,2,2,14,4,Finance,High School,0
+768,61544,5,1,14,4,Sales,Masters,0
+769,62194,1,3,4,2,Sales,PhD,0
+770,64471,5,2,4,2,HR,High School,0
+771,75858,1,5,1,0,HR,PhD,0
+772,70786,3,4,8,3,Finance,High School,0
+773,72327,3,1,5,1,Finance,Bachelors,0
+774,94235,1,1,15,4,Engineering,Masters,0
+775,45750,4,5,4,2,Support,Bachelors,0
+776,94669,4,4,1,0,Engineering,Masters,0
+777,57001,3,1,7,1,Marketing,High School,0
+778,31341,4,3,12,5,Support,High School,0
+779,63285,5,4,10,4,Marketing,Bachelors,0
+780,81110,5,4,13,3,Marketing,PhD,0
+781,85316,2,4,11,4,Finance,PhD,1
+782,52095,5,5,9,3,Support,Masters,0
+783,62418,1,2,3,0,HR,High School,0
+784,65586,5,4,10,3,Finance,Bachelors,0
+785,60568,4,3,1,0,Sales,Bachelors,0
+786,57025,3,5,14,3,Support,PhD,0
+787,64986,3,5,2,1,Finance,Masters,0
+788,77080,2,4,11,2,Finance,Bachelors,0
+789,103962,5,4,15,4,Engineering,PhD,0
+790,78584,1,4,3,2,Engineering,High School,0
+791,42816,4,5,5,0,Sales,Bachelors,0
+792,37393,5,5,12,5,Support,Masters,0
+793,70494,4,5,11,2,Finance,High School,0
+794,48118,2,1,12,4,Sales,High School,0
+795,64400,2,3,8,1,Marketing,High School,0
+796,52767,3,5,11,2,Sales,Bachelors,0
+797,59734,1,3,9,4,Sales,Bachelors,0
+798,43666,2,5,13,5,Sales,Bachelors,0
+799,60525,3,3,2,1,HR,PhD,0
+800,96878,3,3,12,5,Engineering,PhD,0
+801,59220,5,3,11,3,Sales,Masters,0
+802,86368,3,1,10,2,Marketing,PhD,0
+803,59757,2,4,9,3,Sales,Masters,0
+804,75242,2,3,6,2,Marketing,PhD,0
+805,75574,1,3,3,0,Finance,Masters,0
+806,54795,1,2,13,5,Support,Masters,0
+807,58086,4,4,8,2,Marketing,High School,0
+808,80284,2,1,7,1,Engineering,High School,1
+809,54987,5,4,3,0,Sales,PhD,0
+810,50985,1,3,5,1,Sales,High School,0
+811,43730,1,3,10,2,Sales,High School,0
+812,63240,1,2,3,2,Finance,Bachelors,0
+813,37692,5,2,1,0,Support,Bachelors,0
+814,70412,2,5,10,4,HR,Masters,0
+815,70053,3,5,14,3,HR,Masters,0
+816,51279,3,5,3,0,Sales,Masters,0
+817,60133,1,2,2,0,HR,Bachelors,0
+818,73507,2,5,1,0,Marketing,Masters,0
+819,77217,2,2,5,0,Finance,Bachelors,0
+820,55565,1,1,9,3,Finance,High School,0
+821,66761,3,1,12,5,Finance,Masters,0
+822,45329,2,1,7,3,Sales,Bachelors,0
+823,57241,5,4,9,3,HR,High School,0
+824,70088,1,2,11,2,HR,Masters,0
+825,57018,1,4,5,1,Sales,Masters,0
+826,66748,3,3,1,0,Finance,Bachelors,0
+827,38676,1,2,6,1,Support,High School,1
+828,90040,5,5,13,4,Finance,PhD,0
+829,67609,4,5,8,1,Engineering,High School,1
+830,66627,3,4,1,1,Finance,High School,0
+831,57180,1,2,13,4,Sales,Masters,0
+832,50998,1,2,1,0,Sales,High School,0
+833,84812,4,1,8,1,Engineering,Masters,0
+834,90592,3,4,5,1,Engineering,PhD,1
+835,78603,5,1,2,0,Marketing,PhD,0
+836,78545,4,5,15,5,HR,PhD,1
+837,94902,1,3,1,0,Engineering,Masters,0
+838,73950,4,4,9,2,Finance,Bachelors,0
+839,48745,4,5,12,3,Sales,Masters,1
+840,58963,2,2,9,2,Sales,Masters,0
+841,60565,1,1,11,4,Marketing,Bachelors,0
+842,61323,4,4,7,2,Sales,Masters,0
+843,55094,1,3,10,3,HR,Bachelors,0
+844,47378,2,1,11,3,Sales,Bachelors,0
+845,44614,3,3,6,3,Support,PhD,0
+846,73059,4,5,5,1,Marketing,PhD,0
+847,53774,5,5,3,2,Sales,Masters,0
+848,83401,1,5,2,0,Finance,Masters,0
+849,56174,2,5,13,5,Support,PhD,0
+850,61381,3,4,1,1,Sales,Bachelors,0
+851,50750,5,1,8,1,Sales,Masters,0
+852,82294,2,1,11,2,Engineering,High School,1
+853,81623,1,3,6,1,Engineering,Bachelors,0
+854,47973,2,1,8,2,Support,Bachelors,0
+855,98662,1,4,15,5,Engineering,PhD,0
+856,70631,3,5,5,0,Engineering,High School,0
+857,33306,1,2,14,5,Support,High School,0
+858,73294,2,2,9,4,Finance,PhD,0
+859,101114,4,4,4,0,Engineering,PhD,0
+860,63269,4,1,7,1,Marketing,High School,0
+861,75711,2,5,1,1,Engineering,High School,0
+862,63561,4,3,3,1,Marketing,Bachelors,0
+863,77835,4,3,15,5,Marketing,Masters,0
+864,42023,3,2,1,0,Sales,High School,0
+865,69019,5,1,8,1,Finance,High School,0
+866,53846,4,1,7,2,HR,High School,0
+867,57731,2,1,15,6,Sales,High School,0
+868,47139,2,4,10,4,Sales,Bachelors,0
+869,80033,4,5,7,2,Engineering,Bachelors,0
+870,44608,4,5,2,1,Support,Masters,0
+871,54372,2,3,13,5,HR,High School,0
+872,79369,3,2,6,1,Marketing,PhD,0
+873,52608,1,3,13,3,Support,PhD,0
+874,86421,1,1,11,4,Engineering,Masters,1
+875,63812,2,4,4,2,Sales,Masters,0
+876,63550,5,5,2,1,Sales,Masters,0
+877,49379,4,2,9,2,HR,Bachelors,0
+878,52052,3,4,5,2,Support,Masters,0
+879,61864,5,3,10,4,HR,Masters,0
+880,85827,3,5,2,0,Engineering,Masters,0
+881,31091,3,3,5,2,Support,High School,0
+882,54861,5,1,4,0,Support,Masters,0
+883,53018,5,4,5,0,Sales,Masters,0
+884,64990,5,3,5,1,Finance,Masters,0
+885,55803,5,5,5,0,HR,Bachelors,0
+886,44979,1,5,3,2,Support,Masters,0
+887,54950,5,1,13,5,Sales,Bachelors,0
+888,60400,5,1,3,2,Marketing,Bachelors,0
+889,46246,5,1,15,5,Support,Bachelors,0
+890,91728,3,5,9,4,Engineering,Masters,1
+891,74257,5,3,5,0,Marketing,PhD,0
+892,36080,5,3,8,1,Support,Bachelors,0
+893,60568,2,2,10,3,Marketing,Bachelors,1
+894,75506,4,1,8,3,HR,PhD,0
+895,67769,2,1,8,3,HR,PhD,0
+896,103325,4,3,11,4,Engineering,PhD,1
+897,59122,1,5,8,2,HR,High School,0
+898,81482,4,4,6,2,Finance,Masters,0
+899,72695,1,1,5,0,Marketing,PhD,1
+900,72941,5,4,4,2,Marketing,PhD,0
+901,61938,5,5,9,2,HR,Bachelors,0
+902,68780,5,1,13,5,Sales,PhD,0
+903,47144,2,4,9,4,Sales,Bachelors,0
+904,91813,3,4,3,0,Engineering,PhD,1
+905,62625,3,3,14,5,Sales,Masters,0
+906,68636,5,3,1,0,Marketing,High School,0
+907,76936,1,5,4,1,Engineering,Masters,0
+908,55763,5,5,10,3,Marketing,Bachelors,0
+909,68425,4,3,6,3,Finance,Bachelors,0
+910,52331,4,2,6,1,Support,PhD,0
+911,35013,5,4,8,2,Support,High School,0
+912,52174,2,1,10,3,Marketing,High School,0
+913,56119,3,3,12,4,HR,Masters,0
+914,65738,5,2,6,1,HR,Masters,0
+915,65501,2,4,9,2,Finance,High School,1
+916,58642,1,3,5,2,Support,PhD,0
+917,92545,3,3,7,3,Engineering,PhD,0
+918,62111,2,5,3,0,Marketing,Bachelors,0
+919,57259,2,1,1,0,HR,Bachelors,0
+920,56012,1,1,15,4,HR,Masters,0
+921,70866,5,4,14,4,Finance,High School,0
+922,60767,4,3,5,0,Sales,PhD,0
+923,51414,4,4,1,1,Support,PhD,0
+924,61104,3,3,13,4,Sales,Masters,0
+925,58388,2,5,14,5,Marketing,High School,0
+926,60196,4,4,5,0,Sales,Bachelors,0
+927,89401,3,3,2,0,Engineering,Masters,0
+928,84331,5,1,13,5,Engineering,Bachelors,0
+929,71634,4,3,10,2,Finance,Masters,0
+930,79884,2,3,8,1,Engineering,High School,0
+931,64433,5,2,7,3,HR,Masters,0
+932,74917,5,4,1,0,Finance,High School,0
+933,71021,1,4,12,3,HR,PhD,0
+934,50477,4,4,15,5,HR,Bachelors,0
+935,71466,4,4,3,2,Finance,Masters,0
+936,67419,2,1,15,6,Marketing,Masters,0
+937,77355,5,1,7,1,Marketing,PhD,0
+938,50338,3,4,1,1,Support,PhD,0
+939,63813,3,3,1,1,HR,Masters,0
+940,92452,2,3,11,2,Finance,PhD,0
+941,80572,3,3,9,2,Finance,Masters,0
+942,72667,5,1,4,0,Sales,PhD,0
+943,68603,2,1,15,4,Sales,PhD,0
+944,53541,2,3,1,1,Sales,Masters,0
+945,61052,4,3,2,0,Sales,Masters,0
+946,64918,5,5,15,6,Marketing,Masters,0
+947,71672,5,1,8,2,Sales,PhD,0
+948,71055,4,1,10,3,HR,PhD,0
+949,63527,3,3,6,2,Sales,Masters,0
+950,72232,5,2,14,5,Finance,Bachelors,0
+951,52737,3,4,8,1,HR,Masters,0
+952,33227,4,3,5,1,Support,Bachelors,1
+953,63653,4,1,9,3,Finance,Bachelors,0
+954,46590,2,4,13,3,Support,High School,0
+955,73626,5,4,12,3,Finance,PhD,0
+956,66215,2,4,6,1,Sales,Masters,0
+957,73996,5,2,4,1,Finance,PhD,0
+958,67111,5,1,1,0,HR,Masters,0
+959,66464,5,1,5,0,HR,PhD,1
+960,86923,3,4,7,2,Engineering,Bachelors,0
+961,46533,4,2,9,2,HR,High School,0
+962,53424,3,3,1,0,Support,Masters,0
+963,73297,2,1,7,2,Sales,PhD,0
+964,35629,2,3,11,2,Support,Bachelors,0
+965,79817,3,4,14,3,Engineering,Masters,1
+966,80271,4,5,14,5,Engineering,High School,0
+967,71757,2,3,6,3,Marketing,Masters,1
+968,44501,2,5,1,0,Sales,Bachelors,0
+969,80708,3,5,4,1,Engineering,Masters,0
+970,94554,4,1,14,3,Engineering,PhD,0
+971,92188,2,5,10,2,Engineering,Masters,0
+972,69834,2,3,12,5,Marketing,Masters,0
+973,78048,2,5,4,0,Marketing,PhD,0
+974,58950,3,4,8,1,Sales,Masters,0
+975,68621,4,2,4,0,Engineering,High School,0
+976,55321,4,4,10,4,Sales,Bachelors,0
+977,58438,5,3,14,5,HR,Masters,1
+978,43679,4,4,13,5,Support,Bachelors,0
+979,74953,1,5,8,1,Finance,High School,0
+980,37778,5,1,13,4,Support,Bachelors,0
+981,68544,5,5,1,0,HR,Masters,1
+982,48505,1,2,13,3,Sales,Masters,0
+983,67197,2,3,2,1,Sales,PhD,0
+984,68947,2,2,8,3,Engineering,Bachelors,0
+985,65533,2,2,5,2,Finance,Bachelors,0
+986,38817,3,3,13,5,Support,Bachelors,0
+987,71593,3,4,14,4,HR,Masters,0
+988,100317,1,3,4,0,Engineering,PhD,0
+989,49543,3,2,6,2,HR,Bachelors,0
+990,40753,3,2,1,0,Support,High School,0
+991,46022,4,2,13,4,Sales,Bachelors,0
+992,57747,1,5,8,2,Marketing,High School,0
+993,64196,4,1,1,0,Marketing,Masters,0
+994,56342,1,3,12,4,Finance,High School,0
+995,58614,4,5,6,1,HR,Masters,0
+996,45413,3,3,5,0,Support,Masters,1
+997,97110,1,2,15,6,Engineering,PhD,0
+998,60502,5,4,10,4,HR,Bachelors,0
+999,104530,2,2,11,2,Engineering,PhD,0
+1000,53958,4,5,8,2,Sales,Masters,0
